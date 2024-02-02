@@ -1,13 +1,6 @@
 # FIAP-4SIR
 
-# Repositório de arquivos referentes as disciplinas do curso de Sistema de Informação da turma 4SIR em 2024
+# Repositório de arquivos referentes a disciplina DESENVOLVIMENTO MOBILE IOS COM SWIFT
 
-## Disciplinas
 
-- ANÁLISE DE NEGÓCIOS E INTELIGÊNCIA EMPRESARIAL
-- AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
-- CYBERSECURITY FOR DEV
-- DESENVOLVIMENTO DE APLICAÇÕES EM SISTEMAS DISTRIBUÍDOS E CLOUD COMPUTING
-- DESENVOLVIMENTO MOBILE IOS COM SWIFT
-- ENTERPRISE ANALYTICS AND DATA WAREHOUSING
-- TRABALHO DE CONCLUSÃO DE CURSO
+O mundo é mobile, capacitação no desenvolvimento de soluções para dispositivos da Apple para o mercado corporativo, faça uso dos mais diversos componentes, integre sua aplicação com web service utilizando Json, armazene dados, crie mapa com rotas, conheça o ecossistema de sensores e multimídia, tudo isso utilizando a linguagem nativa Swift.
