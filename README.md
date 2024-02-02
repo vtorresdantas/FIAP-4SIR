@@ -1,4 +1,4 @@
-# FIAP-4SI
+# FIAP-4SIR
 
 # Repositório de arquivos referentes as disciplinas do curso de Sistema de Informação da turma 4SIR em 2024
 
