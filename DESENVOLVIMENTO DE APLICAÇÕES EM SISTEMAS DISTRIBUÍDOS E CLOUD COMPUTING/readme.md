@@ -1,13 +1,5 @@
 # FIAP-4SIR
 
-# Repositório de arquivos referentes as disciplinas do curso de Sistema de Informação da turma 4SIR em 2024
+# Repositório de arquivos referentes a disciplina DESENVOLVIMENTO DE APLICAÇÕES EM SISTEMAS DISTRIBUÍDOS E CLOUD COMPUTING
 
-## Disciplinas
-
-- ANÁLISE DE NEGÓCIOS E INTELIGÊNCIA EMPRESARIAL
-- AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
-- CYBERSECURITY FOR DEV
-- DESENVOLVIMENTO DE APLICAÇÕES EM SISTEMAS DISTRIBUÍDOS E CLOUD COMPUTING
-- DESENVOLVIMENTO MOBILE IOS COM SWIFT
-- ENTERPRISE ANALYTICS AND DATA WAREHOUSING
-- TRABALHO DE CONCLUSÃO DE CURSO
+Funcionamento, finalidade, aplicações, limitações, gerência de recursos, proteção, segurança e desempenho dos sistemas computacionais paralelos e distribuídos.
