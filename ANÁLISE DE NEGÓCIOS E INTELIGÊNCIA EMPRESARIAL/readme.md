@@ -1,13 +1,6 @@
 # FIAP-4SIR
 
-# Repositório de arquivos referentes as disciplinas do curso de Sistema de Informação da turma 4SIR em 2024
+# Repositório de arquivos referentes a disciplina ANÁLISE DE NEGÓCIOS E INTELIGÊNCIA EMPRESARIAL
 
-## Disciplinas
 
-- ANÁLISE DE NEGÓCIOS E INTELIGÊNCIA EMPRESARIAL
-- AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
-- CYBERSECURITY FOR DEV
-- DESENVOLVIMENTO DE APLICAÇÕES EM SISTEMAS DISTRIBUÍDOS E CLOUD COMPUTING
-- DESENVOLVIMENTO MOBILE IOS COM SWIFT
-- ENTERPRISE ANALYTICS AND DATA WAREHOUSING
-- TRABALHO DE CONCLUSÃO DE CURSO
+Entenda os novos negócios e segmentos apoiados fortemente por TI, em caráter de inovação, e descubra os caminhos para criar e favorecer seu negócio com objetivos de torná-lo escalável e sustentável.
