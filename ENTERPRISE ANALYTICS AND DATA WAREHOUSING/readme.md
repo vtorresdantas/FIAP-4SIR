@@ -1,13 +1,5 @@
 # FIAP-4SIR
 
-# Repositório de arquivos referentes as disciplinas do curso de Sistema de Informação da turma 4SIR em 2024
+# Repositório de arquivos referentes a disciplina ENTERPRISE ANALYTICS AND DATA WAREHOUSING
 
-## Disciplinas
-
-- ANÁLISE DE NEGÓCIOS E INTELIGÊNCIA EMPRESARIAL
-- AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT
-- CYBERSECURITY FOR DEV
-- DESENVOLVIMENTO DE APLICAÇÕES EM SISTEMAS DISTRIBUÍDOS E CLOUD COMPUTING
-- DESENVOLVIMENTO MOBILE IOS COM SWIFT
-- ENTERPRISE ANALYTICS AND DATA WAREHOUSING
-- TRABALHO DE CONCLUSÃO DE CURSO
+Os sistemas de DW (data warehousing) e BI (business intelligence) continuam sendo os projetos de TI mais complexos, desafiadores e interessantes. A nuvem trouxe mais um componente de desafio. Este curso prepara você para implementar, com sucesso, soluções analíticas apresentando os elementos essenciais de arquiteturas, modelagem dimensional, ETL, processos de qualidade de dados chegando até a implementação física. O seu paralelo com sistemas de Big Data e definição de DB NoSQL estão contidos neste conteúdo tornando a experiência ainda mais interessante em um mundo onde as soluções são cada vez mais diferenciadas para atender os requisitos cada vez mais exigentes de performance e capacidade de armazenamento.
